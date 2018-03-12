@@ -1,0 +1,11 @@
+统计每类文档字符串数量，做为先验概率，训练Bayes文本分类器模型
+
+运行环境：
+运行系统： ubuntu-16.04.5
+Hadoop版本： Hadoop-2.8.1
+Jdk版本： Jdk-1.8.0_144
+IDE： Eclipse-4.7.1
+IDE插件： hadoop-eclipse-plugin-2.8.0
+Namenode： 名称：Master     IP：192.168.1.121
+DataNode ： 名称：Slaver1    IP：192.168.1.122
+
